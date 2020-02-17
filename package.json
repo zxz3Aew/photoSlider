@@ -1,0 +1,13 @@
+{
+    "name": "waterColorPaintingSliders",
+    "version": "1.0.0",
+    "description": "water painting",
+    "scripts": {
+      "devserver": "live-server"
+    },
+    "author": "BauLi",
+    "license": "ISC",
+    "devDependencies": {
+      "node-sass": "^4.13.1"
+    }
+  }
